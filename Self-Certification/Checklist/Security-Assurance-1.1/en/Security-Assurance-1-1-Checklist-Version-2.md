@@ -39,11 +39,10 @@ with questions. We provide support for free. The OpenChain Project is funded by 
 ## Section 3.1.3
 
 - [ ] We have documented the awareness of our Program Participants on the following topics:
-
-- - [ ] The open source security assurance policy and where to find it;
-- - [ ] Relevant open source objectives;
-- - [ ] Contributions expected to ensure the effectiveness of the Program;
-- - [ ] The implications of failing to follow the Program requirements.
+- [ ] The open source security assurance policy and where to find it;
+- [ ] Relevant open source objectives;
+- [ ] Contributions expected to ensure the effectiveness of the Program;
+- [ ] The implications of failing to follow the Program requirements.
 
 ## Section 3.1.4
 
